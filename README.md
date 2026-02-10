@@ -224,7 +224,6 @@ In database we have "universities" collection that is responsible for universiti
 <img width="1512" height="982" alt="Снимок экрана 2026-02-10 в 22 51 00" src="https://github.com/user-attachments/assets/86577856-6f7c-4c97-9ab1-42e4c5d3d1f3" />
 Then "programs" collection that stands for universities scores and for our analyzing score. 
 
-
 Conclusion
 
 This project demonstrates the development of a complete full-stack web application using modern backend and frontend technologies. The UNT Score Analyzer provides a practical solution for students while showcasing core skills in NoSQL database design, REST API development, authentication, and frontend integration.
@@ -233,4 +232,5 @@ The system is scalable, modular, and follows best practices of modern web develo
 UNT Score Analyzer
 Full-Stack Web Application
 2026
+
 
