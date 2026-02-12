@@ -27,8 +27,23 @@ The main objectives of this project are:
 
 ---
 
-![Main Page](screenshots/news.png)
+![Main Page](screenshots/main.png)
+The main page of our website
 
+![Main Page](screenshots/news.png)
+Here is news that loaded from our database. In news collection we inserted news from universities and created dataset of it, then this datas were uploaded to our web page through connection.
+
+The next is users
+
+![Main Page](screenshots/signup.png)
+Users can create account or log in to the website and analyze their scores, find universitites and get recommendation
+
+
+![Main Page](screenshots/universities.png)
+In database we have "universities" collection that is responsible for universities. 
+![Main Page](screenshots/analyze.png)
+![Main Page](screenshots/recommendation.png)
+Then "programs" collection that stands for universities scores and for our analyzing score. 
 ## Technologies Used
 
 ### Backend
@@ -208,24 +223,6 @@ User saves result
 User views saved results in profile
 
 
-![Main Page](screenshots/main.png)
-The main page of our website
-
-
-![Main Page](screemshots/news.png)
-Here is news that loaded from our database <img width="1512" height="982" alt="Снимок экрана 2026-02-10 в 22 47 32" src="https://github.com/user-attachments/assets/e80e7a93-fb1a-42a3-ab45-e08ae6d54bd9" />
-In news collection we inserted news from universities and created dataset of it, then this datas were uploaded to our web page through connection.
-
-The next is users
-
-![Main Page](screenshots/signup.png)
-users can create account or log in to the website and analyze their scores, find universitites and get recommendation
-
-
-![Main Page](screenshots/universities.png)
-In database we have "universities" collection that is responsible for universities. 
-<img width="1512" height="982" alt="Снимок экрана 2026-02-10 в 22 51 00" src="https://github.com/user-attachments/assets/86577856-6f7c-4c97-9ab1-42e4c5d3d1f3" />
-Then "programs" collection that stands for universities scores and for our analyzing score. 
 
 Conclusion
 
@@ -235,6 +232,7 @@ The system is scalable, modular, and follows best practices of modern web develo
 UNT Score Analyzer
 Full-Stack Web Application
 2026
+
 
 
 
