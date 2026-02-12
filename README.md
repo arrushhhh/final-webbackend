@@ -27,6 +27,8 @@ The main objectives of this project are:
 
 ---
 
+![Main Page](screenshots/news.png)
+
 ## Technologies Used
 
 ### Backend
@@ -233,6 +235,7 @@ The system is scalable, modular, and follows best practices of modern web develo
 UNT Score Analyzer
 Full-Stack Web Application
 2026
+
 
 
 
