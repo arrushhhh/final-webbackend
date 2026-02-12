@@ -10,7 +10,6 @@ The system provides:
 - university news feed,
 - user profile management,
 - persistent storage of results.
-![Uploading Снимок экрана 2026-02-12 в 16.52.06.png…]()
 
 
 The project follows a **client–server architecture** with a separate frontend and backend connected via a RESTful API.
@@ -207,21 +206,21 @@ User saves result
 User views saved results in profile
 
 
-<img width="1500" height="903" alt="Снимок экрана 2026-02-10 в 22 46 17" src="https://github.com/user-attachments/assets/4a2f1089-f59b-487b-a570-b9c10094c3d3" />
+![Main Page](screenshots/main.png)
 The main page of our website
 
 
-<img width="1512" height="901" alt="Снимок экрана 2026-02-10 в 22 47 09" src="https://github.com/user-attachments/assets/9a4d0b31-c566-405d-9244-0bc4cc3422fb" />
+![Main Page](screemshots/news.png)
 Here is news that loaded from our database <img width="1512" height="982" alt="Снимок экрана 2026-02-10 в 22 47 32" src="https://github.com/user-attachments/assets/e80e7a93-fb1a-42a3-ab45-e08ae6d54bd9" />
 In news collection we inserted news from universities and created dataset of it, then this datas were uploaded to our web page through connection.
 
 The next is users
 
-<img width="1512" height="905" alt="Снимок экрана 2026-02-10 в 22 49 26" src="https://github.com/user-attachments/assets/82f8cd8e-818c-4d67-a089-26bf4eccc0a8" />
+![Main Page](screenshots/signup.png)
 users can create account or log in to the website and analyze their scores, find universitites and get recommendation
 
 
-<img width="1512" height="982" alt="Снимок экрана 2026-02-10 в 22 50 23" src="https://github.com/user-attachments/assets/74be1b93-38df-4cba-9602-0e9bb7e79181" />
+![Main Page](screenshots/universities.png)
 In database we have "universities" collection that is responsible for universities. 
 <img width="1512" height="982" alt="Снимок экрана 2026-02-10 в 22 51 00" src="https://github.com/user-attachments/assets/86577856-6f7c-4c97-9ab1-42e4c5d3d1f3" />
 Then "programs" collection that stands for universities scores and for our analyzing score. 
@@ -234,6 +233,7 @@ The system is scalable, modular, and follows best practices of modern web develo
 UNT Score Analyzer
 Full-Stack Web Application
 2026
+
 
 
 
