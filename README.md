@@ -10,6 +10,8 @@ The system provides:
 - university news feed,
 - user profile management,
 - persistent storage of results.
+![Uploading Снимок экрана 2026-02-12 в 16.52.06.png…]()
+
 
 The project follows a **client–server architecture** with a separate frontend and backend connected via a RESTful API.
 
@@ -232,5 +234,6 @@ The system is scalable, modular, and follows best practices of modern web develo
 UNT Score Analyzer
 Full-Stack Web Application
 2026
+
 
 
